@@ -38,3 +38,4 @@ VALUES ("Jeff", "Toddrick", "Education");
 
 INSERT INTO professors (professors_last_name, professors_first_name, professors_courses)
 VALUES ("Jefferson", "Tom", "English Language");
+
