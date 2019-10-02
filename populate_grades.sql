@@ -36,3 +36,4 @@ VALUES (60,"F", "F");
 INSERT INTO grades (grades_id, average_grades, top_grades)
 VALUES (0,"I", "I");
 
+
