@@ -1,37 +1,38 @@
 USE devcamp_univ_project_schema;
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("A+", "A+");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (98,"A+", "A+");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("A", "A");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (94,"A", "A");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("A-", "A-");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (90,"A-", "A-");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("B+", "B+");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (88,"B+", "B+");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("B", "B");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (84,"B", "B");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("B-", "B-");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (80,"B-", "B-");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("C+", "C+");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (78,"C+", "C+");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("C", "C");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (74,"C", "C");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("C-", "C-");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (70,"C-", "C-");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("D", "D");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (68,"D", "D");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("F", "F");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (60,"F", "F");
 
-INSERT INTO grades (average_grades, top_grades)
-VALUES ("I", "I");
+INSERT INTO grades (grades_id, average_grades, top_grades)
+VALUES (0,"I", "I");
+
