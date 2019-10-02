@@ -1,3 +1,5 @@
+USE devcamp_univ_project_schema;
+
 INSERT INTO grades (average_grades, top_grades)
 VALUES ("A+", "A+");
 
